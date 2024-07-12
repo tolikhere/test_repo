@@ -3,7 +3,7 @@
 # Very sad!
 
 def my_function(first, second):
-    return 5 - 2
+    return 4
 
 def another_function(first):
     return first + 1
